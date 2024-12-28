@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi 
 
-- ⚛️ Learning *physics*
+- ⚛️ Learning physics
 
-- 💻 Eager to help on open source projects
+- 💻 Interested in open source
 
 <!--
 **Oscrt/Oscrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
